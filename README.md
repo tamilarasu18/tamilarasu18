@@ -44,7 +44,7 @@ const tamilarasu = {
 };
 ```
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 - 🔭 Currently working at **Botminds.ai** as a **Full Stack Developer**
 - 🌱 Building enterprise-level UI with **Angular** and **C# backend**
@@ -105,14 +105,18 @@ const tamilarasu = {
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=tamilarasu18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tamilarasu18&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=FF6B6B&currStreakLabel=FFFFFF" height="180"/>
+<!-- Using github-readme-stats with cache busting -->
+<a href="https://github.com/tamilarasu18">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tamilarasu18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tamilarasu18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=8"/>
+</a>
 
 </div>
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamilarasu18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF" height="180"/>
+
+<!-- Streak Stats using alternative -->
+<img src="https://streak-stats.demolab.com?user=tamilarasu18&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=FF6B6B&currStreakLabel=FFFFFF" height="180"/>
 
 </div>
 
@@ -128,27 +132,14 @@ const tamilarasu = {
 
 ---
 
-## 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tamilarasu18/tamilarasu18/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tamilarasu18/tamilarasu18/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tamilarasu18/tamilarasu18/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
----
-
-## 🚀 Featured Projects
+## � Contribution Graph
 
 <div align="center">
 
-<a href="https://github.com/tamilarasu18/story-to-video-pipeline">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tamilarasu18&repo=story-to-video-pipeline&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" />
-</a>
+<!-- Using github-readme-activity-graph which works reliably -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tamilarasu18&bg_color=0d1117&color=3b82f6&line=3b82f6&point=ffffff&area=true&hide_border=true" />
 
 </div>
-
-> **💡 Tip:** Replace `story-to-video-pipeline` with your actual repository names to showcase your best projects!
 
 ---
 
@@ -160,6 +151,29 @@ const tamilarasu = {
 | 🚀 **Soulocal Technologies** | Full Stack Developer | Dec 2023 – Jul 2024 | 3 Flutter apps, Next.js billing app, AWS backend             |
 | ⚡ **Opsverse**              | Developer            | -                   | Real-time AI deployment assistant                            |
 | 📊 **PlanB Consulting**      | Developer            | -                   | SharePoint to React migration, D3.js charts                  |
+
+---
+
+## 🚀 Featured Project
+
+<div align="center">
+
+### 🎬 Story-to-Video AI Pipeline
+
+An automated AI content creation system that generates engaging videos from text stories.
+
+| Component           | Technology          |
+| ------------------- | ------------------- |
+| 📝 Story Generation | Gemma3 LLM          |
+| 🎙️ Voice Synthesis  | Kokoro TTS          |
+| 📜 Subtitles        | OpenAI Whisper      |
+| 🎨 Visuals          | Stable Diffusion    |
+| 📹 Video Processing | MoviePy             |
+| ☁️ Publishing       | YouTube API via GCS |
+
+[![YouTube](https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RiseupNarratives-u5j)
+
+</div>
 
 ---
 
