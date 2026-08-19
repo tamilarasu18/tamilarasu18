@@ -126,25 +126,29 @@ const tamilarasu = {
 <div align="center">
 
 <a href="https://github.com/tamilarasu18">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tamilarasu18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tamilarasu18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tamilarasu18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="Tamilarasu's GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tamilarasu18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=8" alt="Most used languages"/>
 </a>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=tamilarasu18&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=FF6B6B&currStreakLabel=FFFFFF" height="180"/>
+<img src="https://streak-stats.demolab.com?user=tamilarasu18&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=FF6B6B&currStreakLabel=FFFFFF" height="180" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏅 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=tamilarasu18&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15" />
+<img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="88" alt="YOLO"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="88" alt="Pull Shark"/>
+
+**YOLO** &nbsp;·&nbsp; **Pull Shark**
 
 </div>
 
@@ -154,7 +158,7 @@ const tamilarasu = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tamilarasu18&bg_color=0d1117&color=3b82f6&line=3b82f6&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tamilarasu18&bg_color=0d1117&color=3b82f6&line=3b82f6&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph"/>
 
 </div>
 
